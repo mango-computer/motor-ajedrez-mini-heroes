@@ -1,9 +1,9 @@
 # motor-ajedrez-mini-heroes
 
-Modificación de la versión de competencia del motor de ajedrez mango paola
-adaptada al juego Mini Heroes
+Modificación de la versión de competencia del motor de Ajedrez Mango Paola
+adaptada al juego Mini Héroes
 
-Toda la inteligencia artificial que soporta los minijuegos del juego Mini Heroes es ejecutada por el motor.
+Toda la inteligencia artificial que soporta los minijuegos del juego Mini Héroes es ejecutada por el motor.
 El motor implementa un protocolo de comunicación detallado en el archivo comandos.c para
 interactuar con el juego por medio de tuberías. 
 
